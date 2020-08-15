@@ -9,7 +9,7 @@ cam_exploration:
                                   dispersion: "3"}
         min_astar_distance: { weight: "1",
                                   dispersion: "3"}
-        minimum_frontier_size: 15
+        minimum_frontier_size: 200
 
     # Goal selection
     goal_selector:

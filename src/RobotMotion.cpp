@@ -129,8 +129,8 @@ bool RobotMotion::refreshRobotPosition()
     static bool first=true;
     tf::StampedTransform transform;
     ros::Time target_time = ros::Time(0); //ros::Time::now();
-    std::string source_frame = "/map";
-    std::string target_frame = "/base_footprint";
+    std::string source_frame = "MARBLE_HUSKY/map";
+    std::string target_frame = "MARBLE_HUSKY";
     try
     {
 	if(listener->waitForTransform(source_frame, target_frame, target_time, ros::Duration(5.0)))

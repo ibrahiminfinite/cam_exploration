@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/ibrahim/subt_local/devel_isolated/rtabmap_ros/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/move_base/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/global_planner/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/navfn/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/mbf_costmap_nav/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/dwa_local_planner/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/base_local_planner/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/costmap_2d/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/robot_localization/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/move_base_msgs/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/mbf_abstract_nav/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/mbf_msgs/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/amcl/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/map_msgs/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/ibrahim/subt_local/devel_isolated/rtabmap/include/**",
+                "/home/ibrahim/subt_local/src/navigation/amcl/include/**",
+                "/home/ibrahim/subt_local/src/navigation/base_local_planner/include/**",
+                "/home/ibrahim/subt_local/src/cam_exploration/include/**",
+                "/home/ibrahim/subt_local/src/navigation/carrot_planner/include/**",
+                "/home/ibrahim/subt_local/src/navigation/clear_costmap_recovery/include/**",
+                "/home/ibrahim/subt_local/src/navigation/costmap_2d/include/**",
+                "/home/ibrahim/subt_local/src/navigation/dwa_local_planner/include/**",
+                "/home/ibrahim/subt_local/src/navigation/global_planner/include/**",
+                "/home/ibrahim/subt_local/src/navigation/map_server/include/**",
+                "/home/ibrahim/subt_local/src/move_base_flex/mbf_abstract_core/include/**",
+                "/home/ibrahim/subt_local/src/move_base_flex/mbf_abstract_nav/include/**",
+                "/home/ibrahim/subt_local/src/move_base_flex/mbf_costmap_core/include/**",
+                "/home/ibrahim/subt_local/src/move_base_flex/mbf_costmap_nav/include/**",
+                "/home/ibrahim/subt_local/src/move_base_flex/mbf_simple_nav/include/**",
+                "/home/ibrahim/subt_local/src/move_base_flex/mbf_utility/include/**",
+                "/home/ibrahim/subt_local/src/navigation/move_base/include/**",
+                "/home/ibrahim/subt_local/src/navigation/move_slow_and_clear/include/**",
+                "/home/ibrahim/subt_local/src/navigation/nav_core/include/**",
+                "/home/ibrahim/subt_local/src/navigation/navfn/include/**",
+                "/home/ibrahim/subt_local/src/robot_localization/include/**",
+                "/home/ibrahim/subt_local/src/navigation/rotate_recovery/include/**",
+                "/home/ibrahim/subt_local/src/rtabmap_ros/include/**",
+                "/home/ibrahim/subt_local/src/navigation/voxel_grid/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

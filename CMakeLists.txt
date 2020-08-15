@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(cam_exploration)
 
-find_package(catkin REQUIRED COMPONENTS roscpp std_msgs tf)
+find_package(catkin REQUIRED COMPONENTS roscpp std_msgs tf move_base_msgs)
 #find_package(Boost REQUIRED COMPONENTS pending/disjoint_sets)
 
 catkin_package(
